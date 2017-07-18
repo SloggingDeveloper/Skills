@@ -7,3 +7,7 @@ node_modules
 #temp files
 *.tmp
 *~
+
+#es files
+dist
+public/dist
