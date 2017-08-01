@@ -10,3 +10,7 @@ const sentences = [{subject: 'javascript', verb: 'is', object: 'great'},
  for(let s of sentences){
      say(s);
  }
+
+
+
+ 
